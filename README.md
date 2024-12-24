@@ -16,5 +16,5 @@ This repository contains code and resources for detecting and analyzing skin ton
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/skin-detection-analysis.git
-   cd skin-detection-analysis
+   git clone https://github.com/<>.git -- Add Git Path and instructions to clone repository
+   
